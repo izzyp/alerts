@@ -2,7 +2,23 @@
 
 All notable changes to Prologue Alerts will be documented in this file. This file follows the *[Keep a CHANGELOG](http://keepachangelog.com/)* standards.
 
-## [0.4.0] - unreleased
+## [0.4.0-beta.3] - 2015-03-29
+
+### Fixed
+
+- Moved publishes and merge config calls to correct locations
+
+## [0.4.0-beta.2] - 2015-03-29
+
+### Fixed
+
+- Moved merging of config to boot method in service provider
+
+## [0.4.0-beta.1] - 2015-03-29
+
+### Added
+
+- Laravel 5 support
 
 ### Changed
 
@@ -10,6 +26,10 @@ All notable changes to Prologue Alerts will be documented in this file. This fil
 - All code converted to PSR-2
 - Now using PSR-4 auto loading
 - Ported Prologue's support MessageBag functionality and removed the dependency
+
+### Removed
+
+- Laravel 4 support
 
 ## [0.3.0] - 2014-05-23
 
