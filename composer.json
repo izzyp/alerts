@@ -1,5 +1,5 @@
 {
-    "name": "prologue/alerts",
+    "name": "izzy-p/alerts",
     "description": "Prologue Alerts is a package that handles global site messages.",
     "keywords": ["alerts", "messages", "laravel"],
     "license": "MIT",
